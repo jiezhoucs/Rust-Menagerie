@@ -26,3 +26,24 @@ Rust](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/docs/developmen
 [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/)
 
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+
+### Research Papers and Talks
+[DefConChina'18] [When Memory-Safe Languages Become Unsafe](https://mssun.me/research/defconchina18unsafe.html)
+
+[CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust
+Code](https://almohri.io/papers/fc.pdf)
+
+[PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
+Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
+
+[ICSE'20] [Is Rust Used Safely by Software
+Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
+
+[ICSE'20] [Securing UnSafe Rust Programs with
+XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
+
+[OOPSLA'20] [How Do Programmers Use Unsafe
+Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
+
+[arXiv'20] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
+All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
