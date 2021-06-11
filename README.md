@@ -15,3 +15,5 @@ Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 [2016] [Unsafe abstractions](http://smallcultfollowing.com/babysteps/blog/2016/05/23/unsafe-abstractions/)
 
 [Learn Rust the Dangerous Way](http://cliffle.com/p/dangerust/)
+
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/)
