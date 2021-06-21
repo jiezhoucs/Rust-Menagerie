@@ -13,6 +13,9 @@ Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
 [Rust Conf](https://rustconf.com/)
 
+## Technical Details
+[Rust Blog] [Introducing MIR](https://blog.rust-lang.org/2016/04/19/MIR.html)
+
 ## Unsafe Rust
 [The Rust Book] [Unsafe Rust](https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html)
 
