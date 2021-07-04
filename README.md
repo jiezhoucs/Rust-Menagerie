@@ -6,6 +6,8 @@ It contains materials about the Rust Programming Language
 [The Official Book] [The Rust Programming
 Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
 
+[Stanford Seminar - The Rust Programming Language](https://www.youtube.com/watch?v=O5vzLKg7y-k)
+
 [Rust: A Language for the Next 40 Years - Carol
 Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
