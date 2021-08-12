@@ -11,6 +11,8 @@ Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
 [Rust: A Language for the Next 40 Years - Carol
 Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
+[Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+
 [crates.io](https://crates.io/)
 
 [Rust Conf](https://rustconf.com/)
