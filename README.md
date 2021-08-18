@@ -35,6 +35,9 @@ Rust](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/docs/developmen
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 ### Research Papers and Talks
+[PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
+Rust](https://os.inf.tu-dresden.de/papers_ps/plos2017-lamowski-rust-sandboxing-paper.pdf)
+
 [DefConChina'18] [When Memory-Safe Languages Become Unsafe](https://mssun.me/research/defconchina18unsafe.html)
 
 [CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust
