@@ -57,3 +57,6 @@ Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummer
 
 [arXiv'20] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
 All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
+
+### Others
+[c2rust](https://c2rust.com/manual/)
