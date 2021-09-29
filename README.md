@@ -65,3 +65,5 @@ All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
 
 ### Others
 [c2rust](https://c2rust.com/manual/)
+
+[Rust Cheat sheet](https://cheats.rs/)
