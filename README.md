@@ -14,12 +14,15 @@ Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
 [Rust Conf](https://rustconf.com/)
 
+[Project Servo](http://venge.net/graydon/talks/intro-talk-2.pdf) (An "ancient"
+talk about Rust given by Graydon Hoare in 2010)
+
 ## Learning Rust
 
 [The Official Book] [The Rust Programming
 Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
 
-*Rust for the Polyglot Programmer* [pdf](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/polyglot.pdf)
+[Rust for the Polyglot Programmer] [pdf](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/polyglot.pdf)
 [web](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 
 ## Technical Details
