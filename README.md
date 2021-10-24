@@ -70,3 +70,5 @@ All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
 [c2rust](https://c2rust.com/manual/)
 
 [Rust Cheat sheet](https://cheats.rs/)
+
+[MSRC's Rust blogs](https://msrc-blog.microsoft.com/tag/rust/)
