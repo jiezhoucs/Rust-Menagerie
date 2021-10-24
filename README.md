@@ -72,3 +72,5 @@ All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
 [Rust Cheat sheet](https://cheats.rs/)
 
 [MSRC's Rust blogs](https://msrc-blog.microsoft.com/tag/rust/)
+
+[Rust for IoT](https://www.youtube.com/watch?=uCnnhMleoKA)
