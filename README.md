@@ -1,5 +1,5 @@
 # Rust-Menagerie
-It contains materials about the Rust Programming Language
+It contains materials about the Rust Programming Language.
 
 ## General
 
@@ -43,28 +43,7 @@ Rust](https://fuchsia.googlesource.com/fuchsia/+/refs/heads/main/docs/developmen
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 ### Research Papers and Talks
-[PLOS'17] [Sandcrust: Automatic Sandboxing of Unsafe Components in
-Rust](https://os.inf.tu-dresden.de/papers_ps/plos2017-lamowski-rust-sandboxing-paper.pdf)
-
-[DefConChina'18] [When Memory-Safe Languages Become Unsafe](https://mssun.me/research/defconchina18unsafe.html)
-
-[CODASPY'18] [Fidelius Charm: Isolating Unsafe Rust
-Code](https://almohri.io/papers/fc.pdf)
-
-[PLDI'20] [Understanding Memory and Thread Safety Practices and Issues in
-Real-World Rust Programs](https://cseweb.ucsd.edu/~yiying/RustStudy-PLDI20.pdf)
-
-[ICSE'20] [Is Rust Used Safely by Software
-Developers?](https://dl.acm.org/doi/abs/10.1145/3377811.3380413)
-
-[ICSE'20] [Securing UnSafe Rust Programs with
-XRust](https://peimingliu.github.io/asset/pic/icse-paper1026.pdf)
-
-[OOPSLA'20] [How Do Programmers Use Unsafe
-Rust?](https://www.cs.ubc.ca/~alexsumm/papers/AstrauskasMathejaPoliMuellerSummers20.pdf)
-
-[arXiv'20] [Memory-Safety Challenge Considered Solved? An In-Depth Study with
-All Rust CVEs](https://arxiv.org/pdf/2003.03296.pdf)
+[papers](https://github.com/jzhou76/must-read/blob/master/rust.md)
 
 ### Others
 [c2rust](https://c2rust.com/manual/)
