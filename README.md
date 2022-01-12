@@ -3,12 +3,30 @@ It contains materials about the Rust Programming Language.
 
 ## General
 
+### Official docs
+
+[The Book] [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
+
+[Language Reference](https://doc.rust-lang.org/stable/reference/)
+
+[Rust by Example](https://doc.rust-lang.org/rust-by-example/)
+
+[Rustc Dev. Guide](https://rustc-dev-guide.rust-lang.org/)
+
+[The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+
+### Talks
+
 [Stanford Seminar - The Rust Programming Language](https://www.youtube.com/watch?v=O5vzLKg7y-k)
 
-[Rust: A Language for the Next 40 Years - Carol
-Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
+[Rust: A Language for the Next 40 Years - Carol Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
-[Considering Rust](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+[Considering Rust - Jon Gjengset](https://www.youtube.com/watch?v=DnT-LUQgc7s)
+
+### Misc
+
+[Rust for the Polyglot Programmer] [pdf](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/polyglot.pdf)
+[web](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 
 [crates.io](https://crates.io/)
 
@@ -16,14 +34,6 @@ Nichols](https://www.youtube.com/watch?v=A3AdN7U24iU)
 
 [Project Servo](http://venge.net/graydon/talks/intro-talk-2.pdf) (An "ancient"
 talk about Rust given by Graydon Hoare in 2010)
-
-## Learning Rust
-
-[The Official Book] [The Rust Programming
-Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
-
-[Rust for the Polyglot Programmer] [pdf](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/polyglot.pdf)
-[web](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 
 ## Technical Details
 [Rust Blog] [Introducing MIR](https://blog.rust-lang.org/2016/04/19/MIR.html)
