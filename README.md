@@ -15,6 +15,8 @@ It contains materials about the Rust Programming Language.
 
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
+[Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
+
 ### Talks
 
 [Stanford Seminar - The Rust Programming Language](https://www.youtube.com/watch?v=O5vzLKg7y-k)
