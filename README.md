@@ -5,13 +5,17 @@ It contains materials about the Rust Programming Language.
 
 ### Official docs
 
-[The Book] [The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language)
+[The Rust Programming Language](https://doc.rust-lang.org/book/#the-rust-programming-language) (The Book)
 
 [Language Reference](https://doc.rust-lang.org/stable/reference/)
 
 [Rust by Example](https://doc.rust-lang.org/rust-by-example/)
 
 [Rustc Dev. Guide](https://rustc-dev-guide.rust-lang.org/)
+
+[The cargo Book](https://doc.rust-lang.org/cargo/)
+
+[The rustup Book](https://rust-lang.github.io/rustup/)
 
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
