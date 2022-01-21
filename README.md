@@ -17,6 +17,8 @@ It contains materials about the Rust Programming Language.
 
 [The rustup Book](https://rust-lang.github.io/rustup/)
 
+[The rustc Book](https://doc.rust-lang.org/stable/rustc/)
+
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
