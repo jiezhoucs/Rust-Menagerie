@@ -19,6 +19,8 @@ It contains materials about the Rust Programming Language.
 
 [The rustc Book](https://doc.rust-lang.org/stable/rustc/)
 
+[The Rust RFC Book](https://rust-lang.github.io/rfcs/)
+
 [The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 [Unsafe Code Guidelines](https://rust-lang.github.io/unsafe-code-guidelines/)
