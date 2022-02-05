@@ -38,6 +38,8 @@ It contains materials about the Rust Programming Language.
 [Rust for the Polyglot Programmer] [pdf](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/polyglot.pdf)
 [web](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 
+[Rust Blog](https://blog.rust-lang.org/)
+
 [crates.io](https://crates.io/)
 
 [Rust Conf](https://rustconf.com/)
